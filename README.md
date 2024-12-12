@@ -10,5 +10,5 @@ Steps to run Heart Disease Classifier Model:
    vi. Seaborn
 
 3. Open Anaconda and navigate to the heart disease folder
-4. Run the command ./env (it will change the environment from base to the heart disease classifier)
-5. Run jupyter notebook command to open it on the local host
+4. Run the command "conda activate ./env" (it will change the environment from base to the heart disease classifier)
+5. Run "jupyter notebook" command to open it on the local host
